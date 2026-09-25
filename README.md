@@ -31,9 +31,3 @@ First-year **Développement Digital** student learning full-stack web developmen
 | 🧮 [calculator](https://github.com/h4f1d/calculator) | Everyday arithmetic, mouse or keyboard |
 
 All four are linked from my [portfolio](https://github.com/h4f1d) — vanilla HTML, CSS and JavaScript, no frameworks.
-
----
-
-### GitHub Stats
-
-![h4f1d's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4f1d&show_icons=true&theme=dark&hide_border=true)
